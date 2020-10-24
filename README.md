@@ -6,7 +6,7 @@ ScreenShots
 
 ![screenshot  1](https://github.com/aakashkumarjee/3D-Product-Card/blob/main/screenshots/no-mouse.png?raw=true)
 
-# With Mouse Hover 1
+# With Mouse Hover 
 
 ![screenshot  2](https://github.com/aakashkumarjee/3D-Product-Card/blob/main/screenshots/mouse-hover-1.png?raw=true)
 ![screenshot  3](https://github.com/aakashkumarjee/3D-Product-Card/blob/main/screenshots/mouse-hover-2.png?raw=truee)
