@@ -9,7 +9,4 @@ ScreenShots
 # With Mouse Hover 1
 
 ![screenshot  2](https://github.com/aakashkumarjee/3D-Product-Card/blob/main/screenshots/mouse-hover-1.png?raw=true)
-
-# With Mouse Hover 2
-
 ![screenshot  3](https://github.com/aakashkumarjee/3D-Product-Card/blob/main/screenshots/mouse-hover-2.png?raw=truee)
