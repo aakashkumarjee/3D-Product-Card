@@ -4,12 +4,12 @@ A Simple but quite attractive 3D Product Page, that seems to come out of the scr
 ScreenShots
 # Without Mouse Hover
 
-![screenshot  1](https://github.com/aakashkumarjee/3D-Product-Card/blob/main/no-mouse.jpg?raw=true)
+![screenshot  1](https://github.com/aakashkumarjee/3D-Product-Card/blob/main/screenshots/no-mouse.png?raw=true)
 
 # With Mouse Hover 1
 
-![screenshot  2](https://github.com/aakashkumarjee/3D-Product-Card/blob/main/mouse-hover-1.jpg?raw=true)
+![screenshot  2](https://github.com/aakashkumarjee/3D-Product-Card/blob/main/screenshots/mouse-hover-1.png?raw=true)
 
 # With Mouse Hover 2
 
-![screenshot  3](https://github.com/aakashkumarjee/3D-Product-Card/blob/main/mouse-hover-2.jpg?raw=true)
+![screenshot  3](https://github.com/aakashkumarjee/3D-Product-Card/blob/main/screenshots/mouse-hover-2.png?raw=truee)
